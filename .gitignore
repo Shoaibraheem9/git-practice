@@ -1,2 +1,4 @@
+myfolder/
 log.txt
-\mylog.txt
+/mylog.txt
+*.txt
